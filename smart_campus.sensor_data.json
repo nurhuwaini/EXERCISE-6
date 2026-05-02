@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "69ef44d92c589bdf0a2e5370"
+  },
+  "status": "secure test"
+},
+{
+  "_id": {
+    "$oid": "69f03a5d2c589bdf0a2e5371"
+  },
+  "sensor_id": "ESP32_01",
+  "temperature": 30.5,
+  "humidity": 10
+},
+{
+  "_id": {
+    "$oid": "69f03b982c589bdf0a2e5373"
+  },
+  "sensor_id": "ESP32_01",
+  "temperature": 30.5,
+  "humidity": 10
+},
+{
+  "_id": {
+    "$oid": "69f03ba22c589bdf0a2e5374"
+  },
+  "sensor_id": "ESP32_01",
+  "temperature": 29,
+  "humidity": 60
+},
+{
+  "_id": {
+    "$oid": "69f05fc82c589bdf0a2e537a"
+  },
+  "sensor_id": "ESP32_01",
+  "temperature": 31.5,
+  "humidity": 45
+},
+{
+  "_id": {
+    "$oid": "69f05ff22c589bdf0a2e537b"
+  },
+  "sensor_id": "ESP32_01",
+  "temperature": 29.5,
+  "humidity": 70
+},
+{
+  "_id": {
+    "$oid": "69f060342c589bdf0a2e537c"
+  },
+  "sensor_id": "ESP32_01",
+  "temperature": 28.5,
+  "humidity": 30
+}]
